@@ -1,0 +1,3 @@
+Sweetviz is an open source Python library. It can help in getting intial EDA process completed quickly. It  generates beautiful, high-density visualizations  with a single line of code. As of now, output is a fully self-contained HTML application.
+
+Note: Currently, It takes only 'Boolean' and 'Numeric Values' as target inputs. So, we need to keep that in mind.
